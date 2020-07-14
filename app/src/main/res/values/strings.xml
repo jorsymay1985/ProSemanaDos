@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formulario de Contacto</string>
+    <string name="fc_nombre_completo">Nombre Completo</string>
+    <string name="fc_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="fc_telefono">Telefono</string>
+    <string name="fc_email">Email</string>
+    <string name="fc_descripcion">Descripcion de Contacto</string>
+    <string name="fc_bt_Siguiente">Siguiente</string>
+    <string name="fc_formato_fecha">dd/mm/yyyy</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="app_confirmar_datos">Confirmar Datos</string>
+</resources>
